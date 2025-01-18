@@ -1,5 +1,5 @@
 {
-  "name": "@nestcoinco/aws-kms-ethers-signer",
+  "name": "@gbxnga/aws-kms-ethers-signer",
   "version": "2.0.0",
   "description": "Node.JS package for using KMS keys as Ethereum Accounts with ability to sign transactions and messages.",
   "main": "dist/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NestcoinCo/aws-kms-ethers-signer.git"
+    "url": "git+https://github.com/gbxnga/aws-kms-ethers-signer.git"
   },
   "keywords": [
     "aws-kms",
@@ -35,7 +35,7 @@
   "bugs": {
     "url": "https://github.com/NestcoinCo/aws-kms-ethers-signer/issues"
   },
-  "homepage": "https://github.com/NestcoinCo/aws-kms-ethers-signer#readme",
+  "homepage": "https://github.com/gbxnga/aws-kms-ethers-signer#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-ethers": "^3.0.8",
     "@types/jest": "^28.1.4",
